@@ -2,7 +2,9 @@
     <string name="app_name">Layout</string>
     <string name="nxt">Next</string>
     <string name="home">Home</string>
-    <string name="relative">Relative Layout</string>
-    <string name="constraint">Constraint Layout</string>
-    <string name="linear">Linear Layout</string>
+    <string name="relative">Designed Using Relative Layout</string>
+    <string name="constraint">Designed Using Constraint Layout</string>
+    <string name="linear">Designed Using Linear Layout</string>
+    <string name="frame">Designed Using Frame Layout</string>
+    <string name="info">Click Me !</string>
 </resources>

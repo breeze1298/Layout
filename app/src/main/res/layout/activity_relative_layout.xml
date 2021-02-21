@@ -20,26 +20,29 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/relative"
-        android:textSize="22sp"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-black"
         android:layout_marginTop="50dp"
         android:layout_below="@+id/r_image"
         android:textAlignment="center"/>
 
     <Button
+        android:id="@+id/r_home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/home"
         android:layout_marginTop="30dp"
-        android:layout_marginStart="20dp"
+        android:layout_marginStart="30dp"
         android:layout_below="@+id/r_text"/>
 
     <Button
+        android:id="@+id/r_next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/nxt"
         android:layout_marginTop="30dp"
         android:layout_alignEnd="@id/r_text"
-        android:layout_marginEnd="20dp"
+        android:layout_marginEnd="30dp"
         android:layout_below="@+id/r_text"/>
 
 
